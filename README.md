@@ -1,5 +1,6 @@
 # 💼 Enterprise Cloud Audit: Penetration Testing, Security Hardening & NIST Compliance in Azure
-<img width="668" alt="Screenshot 2025-04-15 at 7 48 31 PM" src="https://github.com/user-attachments/assets/ac29f90b-cb81-4289-9a96-307431962dfd" />
+<img width="556" alt="Screenshot 2025-04-15 at 7 53 31 PM" src="https://github.com/user-attachments/assets/ab50c86a-2ad3-45a9-9dd7-d360370521fd" />
+
 
 ## 👋 Introduction
 Hi, I'm Sebastian, and this project is a comprehensive simulation of a real-world cybersecurity consulting engagement. I built, secured, and audited a cloud-based enterprise network using Microsoft Azure and Kali Linux, following best practices in offensive security, cloud configuration, and compliance mapping to the **NIST Cybersecurity Framework (CSF)**.
